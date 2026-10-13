@@ -23,7 +23,7 @@
 <!-- ======================= TYPING ANIMATION ======================= -->
 <p align="center">
   <a href="https://github.com/silvergjeka22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Turning+data+into+intelligent+applications;From+the+model+all+the+way+to+the+interface;Always+learning%2C+always+building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=8A7CFF&center=true&vCenter=true&width=900&height=50&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Turning+data+into+intelligent+applications;From+the+model+all+the+way+to+the+interface;Always+learning%2C+always+building" alt="Typing SVG"/>
   </a>
 </p>
 
