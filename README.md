@@ -32,27 +32,16 @@
 <!-- ======================= ABOUT ME ======================= -->
 ## About Me
 
-```python
-class SilverGjeka:
-    def __init__(self):
-        self.role        = "AI / Machine Learning Engineer"
-        self.education   = "M.Sc. Artificial Intelligence @ University of Verona"
-        self.foundations = "B.Sc. Computer Science"
-        self.location    = "Verona, Italy"
-        self.focus       = ["Deep Learning", "Computer Vision", "NLP", "Reinforcement Learning"]
-        self.exploring   = ["LLMs", "Multimodal Learning", "Explainable AI"]
-        self.languages   = ["Albanian (native)", "Italian (C1)", "English (B2)"]
+**AI / Machine Learning Engineer** based in **Verona, Italy**. Computer Science graduate, now pursuing an **M.Sc. in Artificial Intelligence** at the University of Verona.
 
-    def current_mission(self):
-        return "Build practical, data-driven AI - from the model to the interface."
-```
-
-- Computer Science graduate, now pursuing an **M.Sc. in Artificial Intelligence** at the University of Verona.
 - I design **end-to-end ML / DL systems** - training the model *and* shipping the application around it.
 - Hands-on with **Computer Vision, Deep Learning, NLP and Reinforcement Learning**.
 - Currently diving deeper into **LLMs, multimodal learning and explainable AI**.
 - Selected for **CyberChallenge.IT 2026**, Italy's national cybersecurity training program.
 - Ask me about **PyTorch, computer vision, or full-stack ML apps**.
+- Spoken languages: **Albanian** (native) · **Italian** (C1) · **English** (B2).
+
+> Build practical, data-driven AI - from the model to the interface.
 
 ---
 
@@ -71,7 +60,6 @@ class SilverGjeka:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
