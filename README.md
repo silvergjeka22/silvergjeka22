@@ -108,11 +108,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=silvergjeka22&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Silver's GitHub stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvergjeka22&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=silvergjeka22&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
